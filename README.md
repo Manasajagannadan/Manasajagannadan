@@ -1,158 +1,130 @@
-# Hi there, I'm Manasa Jagannadan 👋
+<h1 align="center">Hi 👋, I'm Manasa Jagannadan</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning | Deep Learning | Generative AI | Computer Vision | NLP
+AI Engineer | Machine Learning | Deep Learning | Generative AI | Software Engineer
 </h3>
 
 <p align="center">
-Building intelligent systems that solve real-world problems.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Generative+AI+Developer;Building+Scalable+AI+Systems)](https://git.io/typing-svg)
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
 - 💼 AI Engineer with 4+ years of Software Engineering experience
-- 🤖 Passionate about Machine Learning, Deep Learning and Generative AI
-- 🧠 Building production-ready AI applications
-- 🌱 Currently exploring Agentic AI, Multi-Agent Systems and Advanced RAG
-- 🎯 Goal: Build scalable AI systems that create real-world impact
+- 🤖 Passionate about AI, Machine Learning and Deep Learning
+- 🌱 Currently learning Agentic AI, Advanced RAG and Multi-Agent Systems
+- 🚀 Building intelligent applications that solve real-world problems
+- 🎯 Goal: Build scalable AI systems for real-world impact
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
-### 🚀 Live Portfolio
+👉 **Live Portfolio**
 
-👉 **https://manasa-ai-portfolio.vercel.app/**
-
----
-
-# 🛠 Tech Stack
-
-### Programming
-
-- Python
-- C
-- Java
-
-### AI / Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- Generative AI
-- LLMs
-- RAG
-- LangChain
-- Hugging Face
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- OpenCV
-
-### Deployment
-
-- FastAPI
-- Streamlit
-- Git
-- GitHub
-- Vercel
+**https://manasa-ai-portfolio.vercel.app**
 
 ---
 
-# 🚀 Featured Projects
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,vscode,html,css,javascript,fastapi" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasajagannadan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasajagannadan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Manasajagannadan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Featured Project
 
 ### 🌟 AI Engineer Portfolio
 
-Professional portfolio built using HTML, CSS and JavaScript.
+🔗 Repository
 
-🔗 https://github.com/Manasajagannadan/manasa-ai-portfolio
+https://github.com/Manasajagannadan/manasa-ai-portfolio
 
-🌐 Live:
+🌐 Live Website
 
-https://manasa-ai-portfolio.vercel.app/
-
----
-
-### Predictive Maintenance System
-
-Machine Learning model for industrial equipment failure prediction.
+https://manasa-ai-portfolio.vercel.app
 
 ---
 
-### AI Chatbot using RAG
-
-LangChain + Hugging Face + Vector Database
-
----
-
-### Image Classification using CNN
-
-Deep Learning application using TensorFlow.
-
----
-
-### Computer Vision Projects
-
-Image Processing
-
-Object Detection
-
-Classification
-
----
-
-# 📺 YouTube
-
-AI Tech World
-
-https://www.youtube.com/@aitechworld8367
-
----
-
-# 📜 Certifications
+## 📜 Certifications
 
 - Generative AI
 - LangChain
 - Hugging Face
 - Deep Learning
 - TensorFlow
-- CNN
-- NLP
 - Machine Learning
+- Computer Vision
+- NLP
 
 ---
 
-# 📫 Connect with Me
+## 📫 Connect With Me
 
-💼 LinkedIn
+<p align="left">
 
-https://www.linkedin.com/in/jagannadan-manasa-aa11b0179/
+<a href="https://www.linkedin.com/in/jagannadan-manasa-aa11b0179/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💻 GitHub
+<a href="https://github.com/Manasajagannadan" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
-https://github.com/Manasajagannadan
+<a href="https://manasa-ai-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel"/>
+</a>
 
-📧 Email
+<a href="https://www.youtube.com/@aitechworld8367" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
+</a>
 
-manasajagannada@gmail.com
+<a href="mailto:manasajagannada@gmail.com">
+<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
+</a>
 
-📺 YouTube
-
-https://www.youtube.com/@aitechworld8367
-
-📷 Instagram
-
-https://www.instagram.com/aitechworld1313/
+</p>
 
 ---
 
-# 💡 Quote
+## 💡 Quote
 
 > **"Never stop learning. Every project is one step closer to building AI that creates real-world impact."**
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+</p>
