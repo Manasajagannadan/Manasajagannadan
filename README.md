@@ -33,10 +33,8 @@ Building intelligent systems that solve real-world problems.
 ### Programming
 
 - Python
-- SQL
-- HTML
-- CSS
-- JavaScript
+- C
+- Java
 
 ### AI / Machine Learning
 
