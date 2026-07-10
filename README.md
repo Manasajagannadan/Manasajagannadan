@@ -1,29 +1,19 @@
+<!-- ============================== -->
+<!--          HEADER                -->
+<!-- ============================== -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Manasa+Jagannadan+%F0%9F%91%8B;AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Generative+AI+%7C+LLMs+%7C+Computer+Vision;Welcome+to+my+GitHub!" />
+Hi 👋, I'm <strong>Manasa Jagannadan</strong>
 </h1>
 
 <h3 align="center">
-Building AI that solves real-world problems, not just notebooks.
+Engineering Intelligent Systems That Scale Beyond Proof of Concept
 </h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AI%20Engineer-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-E53935?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-3949AB?style=for-the-badge"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+Deep+Learning;Architecting+AI+from+Data+to+Deployment" />
 </p>
 
-<p align="center">
-<b>
-Designing Intelligent Systems • Deploying AI at Scale • Continuous Learning
-</b>
-</p>
-
----
 
 ## 👩‍💻 About Me
 
