@@ -8,12 +8,12 @@ Building AI that solves real-world problems, not just notebooks.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI_Engineer-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Engineer-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge"/>
 
 </p>
 
