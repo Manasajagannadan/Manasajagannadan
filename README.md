@@ -1,19 +1,26 @@
-<!-- ============================== -->
-<!--          HEADER                -->
-<!-- ============================== -->
-
 <h1 align="center">
-Hi 👋, I'm <strong>Manasa Jagannadan</strong>
+Hi, I'm Manasa Jagannadan 👋
 </h1>
 
 <h3 align="center">
-Engineering Intelligent Systems That Scale Beyond Proof of Concept
+Engineering AI Systems That Scale Beyond Proof of Concept
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+Deep+Learning;Architecting+AI+from+Data+to+Deployment" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Engineering+Intelligent+AI+Systems;Architecting+Production-Ready+ML+Pipelines;Building+Enterprise+Generative+AI+Solutions;LLMs+•+RAG+•+AI+Agents;Computer+Vision+•+Deep+Learning;Transforming+Ideas+into+Deployable+Intelligence" />
+
 </p>
 
+<p align="center">
+
+<b>
+AI Engineer • Machine Learning • Generative AI • LLMs • AI Agents • Computer Vision • MLOps
+</b>
+
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
