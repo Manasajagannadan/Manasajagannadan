@@ -1,22 +1,70 @@
-# Hi there, I'm Manasa Jagannadan 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Manasa+Jagannadan+%F0%9F%91%8B;AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Generative+AI+%7C+LLMs+%7C+Computer+Vision;Welcome+to+my+GitHub!" />
+</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learning | Deep Learning | Generative AI | Computer Vision | NLP
+Building AI that solves real-world problems, not just notebooks.
 </h3>
 
 <p align="center">
-Building intelligent systems that solve real-world problems.
+
+<img src="https://img.shields.io/badge/AI%20Engineer-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-E53935?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-3949AB?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<b>
+Designing Intelligent Systems • Deploying AI at Scale • Continuous Learning
+</b>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 AI Engineer with 4+ years of Software Engineering experience
-- 🤖 Passionate about Machine Learning, Deep Learning and Generative AI
-- 🧠 Building production-ready AI applications
-- 🌱 Currently exploring Agentic AI, Multi-Agent Systems and Advanced RAG
-- 🎯 Goal: Build scalable AI systems that create real-world impact
+I'm **Manasa Jagannadan**, an AI Engineer passionate about building intelligent applications that create measurable business impact.
+
+Rather than focusing only on model development, I enjoy building complete AI systems—from data engineering and model training to deployment, monitoring, and production-ready MLOps pipelines.
+
+My current focus includes:
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Generative AI
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🤝 AI Agents & Multi-Agent Systems
+- 👁️ Computer Vision
+- 📊 Machine Learning Systems
+- ☁️ MLOps & Cloud Deployment
+
+I believe the future belongs to engineers who can build reliable, scalable, and intelligent AI products—not just train models.
+
+---
+
+# 🚀 Current Focus
+
+✔ Building End-to-End AI Products
+
+✔ Production-Ready ML Pipelines
+
+✔ LLM + RAG Applications
+
+✔ AI Agent Systems
+
+✔ Advanced Computer Vision
+
+✔ MLOps & Cloud Deployment
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"Great AI is not about bigger models.  
+> Great AI is about solving real-world problems with reliable, scalable systems."**
 
 ---
 
