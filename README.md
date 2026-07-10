@@ -1,23 +1,26 @@
 <h1 align="center">
-Hi, I'm Manasa Jagannadan 👋
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Manasa+Jagannadan+%F0%9F%91%8B;AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;Generative+AI+%7C+LLMs+%7C+Computer+Vision;Welcome+to+my+GitHub!" />
 </h1>
 
 <h3 align="center">
-Engineering AI Systems That Scale Beyond Proof of Concept
+Building AI that solves real-world problems, not just notebooks.
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Engineering+Intelligent+AI+Systems;Architecting+Production-Ready+ML+Pipelines;Building+Enterprise+Generative+AI+Solutions;LLMs+•+RAG+•+AI+Agents;Computer+Vision+•+Deep+Learning;Transforming+Ideas+into+Deployable+Intelligence" />
+<img src="https://img.shields.io/badge/AI_Engineer-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 <p align="center">
-
 <b>
-AI Engineer • Machine Learning • Generative AI • LLMs • AI Agents • Computer Vision • MLOps
+Designing Intelligent Systems • Deploying AI at Scale • Continuous Learning
 </b>
-
 </p>
 
 ---
