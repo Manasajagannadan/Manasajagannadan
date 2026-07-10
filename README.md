@@ -12,8 +12,8 @@ Building AI that solves real-world problems, not just notebooks.
 <img src="https://img.shields.io/badge/Machine%20Learning-4B5563?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-E53935?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-14532D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-243447?style=for-the-badge"/>
 
 </p>
 
